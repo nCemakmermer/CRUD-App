@@ -9,6 +9,7 @@ npm install
 ```
 
 Then Create config.env file and create PORT and MONGO_URI Variable and specify Value.
+
 That's it. You are ready to go. To execute this project just type
 Projeye başlamak için config.env dosyası oluşturun ve içine PORT=(kendi kullandınız portu yazın) ve MONGO_URI=(kendi mongo DBnizdeki urlyi yazınız fakat şifre kısmını ve mongodb.net/users diye düzetlme yapmayı unutmayınız)
 
